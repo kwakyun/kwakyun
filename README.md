@@ -44,7 +44,7 @@
 | --- | --- | --- |
 | [메디웨이](https://github.com/kwakyun/MediwayPJT) | 부산 금정구의 병원·약국을 이동 접근성과 함께 비교 | Python · Streamlit, 데이터 정제, 점수 계산, 테스트 |
 | [전공한시간](https://github.com/kwakyun/campus-major-tutoring-mvp) | 대학생의 공강과 전공 학습 수요를 연결 | TypeScript · Next.js · NestJS, 시간 충돌 판정, 예약 도메인 |
-| [부산 골목 밸런서](https://github.com/kwakyun/exCor) | 정해진 예산 안에서 부산 골목 여행 계획 세우기 | React · TypeScript, 예산 계산, 설계 의사결정 기록 |
+| [부산 골목 밸런서](https://github.com/kwakyun/busan-alley-balancer) | 정해진 예산 안에서 부산 골목 여행 계획 세우기 | React · TypeScript, 예산 계산, 설계 의사결정 기록 |
 | [OPIc Speech Quest](https://github.com/kwakyun/OpicTutor) | 영어 표현을 직접 떠올리고 새로운 질문에 적용하는 연습 | Next.js, 학습 상태 머신, 로컬 저장, 테스트 |
 | [계약서 검토 보조 실험](https://github.com/kwakyun/ContractReviewApp) | 문서에서 검토할 조항과 원문 근거를 구조화 | Python, LLM 구조화 출력, 도구 호출, 실패 상태 처리 |
 
@@ -53,8 +53,7 @@
 
 ## 기본기를 쌓는 기록
 
-- [Allec](https://github.com/kwakyun/Allec): Python으로 BFS·DFS, 동적 계획법, 백트래킹을 학습한 풀이와 설명
-- [AB_DSAL](https://github.com/kwakyun/AB_DSAL): C++ 연결 리스트·스택·큐의 구조와 동작 학습
+- [algorithm-data-structures](https://github.com/kwakyun/algorithm-data-structures): Python 알고리즘 풀이(BFS·DFS, 동적 계획법, 백트래킹)와 C++ 자료구조 구현(연결 리스트·스택·큐)을 함께 모으고, CMake+GoogleTest·pytest로 자동 테스트
 - [ROS_PNU](https://github.com/kwakyun/ROS_PNU): ROS 2 Topic·Service·QoS, PC–Jetson 통신 실습과 문제 해결 기록
 
 ## 앞으로 더 잘하고 싶은 것
