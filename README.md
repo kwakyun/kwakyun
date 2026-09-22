@@ -1,49 +1,40 @@
-<!-- 헤더 배너 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70" />
-</div>
+# Yunjik · kwakyun
 
-<!-- 타이핑 효과 자기소개 -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Physics+Student;Embedded+System+%26+OS+Enthusiast;I+love+low-level+programming" />
-</div>
+일상과 지역의 문제를 소프트웨어로 풀어보며 배우는 학생입니다.
+서비스를 만드는 경험과 함께 알고리즘·자료구조, ROS 통신의 기본기를 쌓고 있습니다.
 
----
+현재 **부산 AI·SW마에스트로 예비캠프 PRE-SOMA**를 준비하고 있습니다.
+아이디어를 MVP로 구현한 경험을 바탕으로, 설계 이유와 검증 결과를 설명할 수 있는 개발자로 성장하고 싶습니다.
 
-<p align="center">
-  <!-- 배지들 -->
-  <a href="https://github.com/kwakyun"><img alt="GitHub followers" src="https://img.shields.io/github/followers/kwakyun?style=flat-square"/></a>
-  <a href="https://github.com/kwakyun"><img alt="Top language" src="https://img.shields.io/badge/Top%20Lang-C%2B%2B-blue?style=flat-square"/></a>
-  <a href="https://github.com/kwakyun/kwakyun/actions"><img alt="Build status" src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square"/></a>
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square"/></a>
-</p>
+## 먼저 살펴볼 프로젝트
 
+| 프로젝트 | 해결하려는 문제 | 살펴볼 구현 |
+| --- | --- | --- |
+| [메디웨이](https://github.com/kwakyun/MediwayPJT) | 부산 금정구의 병원·약국을 이동 접근성과 함께 비교 | Python · Streamlit, 데이터 정제, 점수 계산, 테스트 |
+| [전공한시간](https://github.com/kwakyun/campus-major-tutoring-mvp) | 대학생의 공강과 전공 학습 수요를 연결 | TypeScript · Next.js · NestJS, 시간 충돌 판정, 예약 도메인 |
+| [부산 골목 밸런서](https://github.com/kwakyun/exCor) | 정해진 예산 안에서 부산 골목 여행 계획 세우기 | React · TypeScript, 예산 계산, 설계 의사결정 기록 |
+| [OPIc Speech Quest](https://github.com/kwakyun/OpicTutor) | 영어 표현을 직접 떠올리고 새로운 질문에 적용하는 연습 | Next.js, 학습 상태 머신, 로컬 저장, 테스트 |
+| [계약서 검토 보조 실험](https://github.com/kwakyun/ContractReviewApp) | 문서에서 검토할 조항과 원문 근거를 구조화 | Python, LLM 구조화 출력, 도구 호출, 실패 상태 처리 |
 
+프로젝트는 학습·MVP 단계이며, 기능과 제한 사항은 각 README에서 확인할 수 있습니다.
+실제 서비스 운영 실적이나 개인의 단독 구현 범위를 의미하지 않습니다.
 
+## 기본기를 쌓는 기록
 
----
+- [Allec](https://github.com/kwakyun/Allec): Python으로 BFS·DFS, 동적 계획법, 백트래킹을 학습한 풀이와 설명
+- [AB_DSAL](https://github.com/kwakyun/AB_DSAL): C++ 연결 리스트·스택·큐의 구조와 동작 학습
+- [ROS_PNU](https://github.com/kwakyun/ROS_PNU): ROS 2 Topic·Service·QoS, PC–Jetson 통신 실습과 문제 해결 기록
 
-### 🛠 기술 스택
+## 앞으로 더 잘하고 싶은 것
 
-**주 사용 언어**
+- 구현한 기능의 설계 이유와 실패·경계 상황을 코드와 테스트로 설명하기
+- 작은 작업을 Issue → Branch → PR → 검증 흐름으로 관리하기
+- AI의 제안과 직접 판단한 내용을 구분하고, 채택한 결과를 검증하기
+- 팀 프로젝트에서 본인 역할과 배운 점을 구체적인 변경 기록으로 남기기
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white">
+## 저장소를 읽는 방법
 
-**플랫폼 / 도구**
+대표 프로젝트의 README에서 목적 → 핵심 코드 → 실행 방법 → 제한 사항 순서로 볼 수 있습니다.
+학습 저장소는 완성 제품과 구분해 표시하고, 포크는 원본 학습 자료로 구분합니다.
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white"> <img src="https://img.shields.io/badge/Git-Git-orange?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
----
-
-### 📊 GitHub 활동
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwakyun&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakyun&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwakyun&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
+[문서 변경 기록](CHANGELOG.md) · [AI 활용 기록](AI_NOTES.md)
