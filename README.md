@@ -1,6 +1,6 @@
 <!-- 헤더 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello%20World&fontSize=70" />
 </div>
 
 <!-- 타이핑 효과 자기소개 -->
@@ -24,8 +24,8 @@
 ### 📊 GitHub 활동
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwakyun&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakyun&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kwakyun&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakyun&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
